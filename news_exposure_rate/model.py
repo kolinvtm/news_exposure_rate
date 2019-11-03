@@ -1,4 +1,4 @@
-
+import nltk
 
 class Model:
     pass
