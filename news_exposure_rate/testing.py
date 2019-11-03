@@ -3,7 +3,7 @@ from parser_cls import NewsParser
 import requests
 
 url = 'https://news.yandex.ru/yandsearch?'
-word = 'нпф благосостояние'
+word = 'nlmk'
 
 news = NewsParser(url, word)
 
