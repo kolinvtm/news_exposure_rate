@@ -1,4 +1,4 @@
-from parser_cls import NewsParser
+from parser import NewsParser
 
 import requests
 
